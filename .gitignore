@@ -22,6 +22,9 @@ DerivedData
 *.xcuserstate
 project.xcworkspace
 
+#add confile folder
+src/config/
+
 # Android/IntelliJ
 #
 build/
