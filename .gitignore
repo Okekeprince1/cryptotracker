@@ -22,8 +22,8 @@ DerivedData
 *.xcuserstate
 project.xcworkspace
 
-#add confile folder
-src/config/
+#add .env file
+.env
 
 # Android/IntelliJ
 #
